@@ -55,7 +55,7 @@ def aStarMan(m, start=None):
 if __name__ == '__main__':
     m = maze(11, 11)
     #m.CreateMaze(saveMaze=True, theme='light')
-    m.CreateMaze(loadMaze='maze--2022-04-17--15-44-17.csv', theme='light')
+    m.CreateMaze(theme='light')
 
     searchPath, aPath, fwdPath = aStarMan(m)
     a = agent(m, footprints=True, color=COLOR.blue, filled=True)
