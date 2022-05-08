@@ -95,7 +95,7 @@ def mid2(m):
 if __name__=='__main__':
     m=maze(11,11)
     #m.CreateMaze(loadMaze='maze--2022-04-08--14-54-45.csv', theme='light')
-    m.CreateMaze(loadMaze='maze--2022-04-17--15-44-17.csv', theme='light')
+    m.CreateMaze(theme='light')
     #m.CreateMaze(theme=COLOR.light)
     spath, path=mid1(m)
     spath2,path2=mid2(m)
