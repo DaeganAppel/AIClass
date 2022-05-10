@@ -1,5 +1,5 @@
 # AIClass
-
+# The FinalFiles Folder contains the Final Versions and is what should be naviagted to at the start.
 ## The Front page contains the very starter files that were used and tested
 
 ## The FinalFiles Folder contains the end result of what was created for the class
