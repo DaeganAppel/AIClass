@@ -4,7 +4,13 @@
 ### You can run any one file by itself to produce a visualization by pressing the run button on the specific file in PyCharm. 
 ### Alternatively you can run the comparison file of them all to see compariosn of results but not a visualization
 
+# Sample Output
+![Sample Novel Bidirectional Graph](https://github.com/DaeganAppel/AIClass/blob/main/Images/MidBid.PNG)
 
+## In this case the Big colored squares are the seach path and the small squares are the final path *Note this may differ per file so check the setting on the file you are running
+
+![Sample Comparison Output for 5x5 (loopPercent=0)](https://github.com/DaeganAppel/AIClass/blob/main/Images/ComparisonOutput.PNG)
+## Sample Comparison Output
 # FAQs
 ## How do I change the maze size?
 ### Edit the line shown below.
@@ -22,3 +28,5 @@ m.CreateMaze(saveMaze=True, theme='light')
 ```
  m.CreateMaze(loadMaze='maze--2022-04-17--15-44-17.csv', theme='light')
  ```
+ 
+ 
