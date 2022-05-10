@@ -1,5 +1,5 @@
 # To run - first download all files
-# Then ensure you have the pyamaze library installed or working on your machine.
+# Then ensure you have the pyamaze library https://github.com/MAN1986/pyamaze installed or working on your machine.
 ## This code was demonstrated to be working on Pyamaze Python 3.7
 ### You can run any one file by itself to produce a visualization by pressing the run button on the specific file in PyCharm. 
 ### Alternatively you can run the comparison file of them all to see compariosn of results but not a visualization
